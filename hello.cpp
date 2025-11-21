@@ -6,6 +6,6 @@ int sum(int a, int b) {
 }
 int main() {
     cout << "Hello, Git!" << endl;
-    cout<<"Hello, GitHub!"<<endl;
+    cout<<"Hello, GitHub_2!"<<endl;
     return 0;
 }
